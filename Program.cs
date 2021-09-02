@@ -6,6 +6,7 @@ namespace diceGame
     {
         static void Main(string[] args)
         {
+            System.Console.Clear();
             int numDice = 0;
             int numSides = 0;
             int numMod = 0;
